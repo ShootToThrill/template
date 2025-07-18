@@ -1,0 +1,5 @@
+[template]
+exclude = [
+    "cliff.toml",
+    "assets/**/*.csv"
+]
